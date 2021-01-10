@@ -16,5 +16,5 @@ Once I get the client key, I can use it to flood() the Source Segment with erron
 
 My code make this easly :)
 
-![1](https://github.com/anasbousselham/segmentbugbounty/blob/master/1.png)
-![2](https://github.com/anasbousselham/segmentbugbounty/blob/master/2.png)
+![1](https://github.com/anasbousselham/segmentbugbounty/blob/main/1.png)
+![2](https://github.com/anasbousselham/segmentbugbounty/blob/main/2.png)
